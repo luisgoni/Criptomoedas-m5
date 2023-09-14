@@ -1,12 +1,12 @@
-# Projeto Cryptalytics - Análise Exploratória de Criptomoedas
-## Análise exploratória relacionada à série histórica dos valores de criptomoedas
+# <font color = 		#FFD700 >Projeto Cryptalytics - Análise Exploratória de Criptomoedas
+## <font color = 		#FFD700 >Análise exploratória relacionada à série histórica dos valores de criptomoedas
 
-## Descrição do Projeto
+## <font color = 		#FFD700 >Descrição do Projeto
 O projeto Cryptalytics é um projeto integrador que engloba todas as ferramentas e conhecimentos adquiridos ao longo do curso. Ele visa realizar uma análise exploratória histórica dos valores de criptomoedas, fornecendo insights valiosos para uma corretora financeira diante da crescente demanda por investimentos em criptomoedas. As criptomoedas são ativos digitais descentralizados baseados em criptografia e operam em redes blockchain, oferecendo transações seguras e transparentes, sem a necessidade de intermediários como bancos. Dada a sua natureza altamente volátil, entender seu comportamento ao longo do tempo é fundamental para orientar os investidores.
 
 ---
 
-## Perguntas a serem Respondidas
+## <font color = 		#FFD700 >Perguntas a serem Respondidas
 O projeto visa responder às seguintes perguntas:
 
 1. Como se comportaram os valores para todas as criptomoedas? Os valores tiveram uma tendência de queda ou de aumento?
@@ -22,7 +22,7 @@ O projeto visa responder às seguintes perguntas:
 
 ---
 
-## Ferramentas Utilizadas
+## <font color = 		#FFD700 >Ferramentas Utilizadas
 
 - Ambiente de Desenvolvimento e comunicação : Discord
 - Limpeza de Dados - Realização da limpeza dos dados para prepará-los para análise : Colab.
@@ -35,21 +35,21 @@ O projeto visa responder às seguintes perguntas:
   
 ---
 
-## O Desafio da Corretora Financeira
+## <font color = 		#FFD700 >O Desafio da Corretora Financeira
 Os executivos da empresa estavam preocupados com a crescente demanda por investimentos em criptomoedas. A volatilidade desses ativos estava causando preocupações entre os investidores, e a empresa necessitava de uma estratégia sólida para orientar seus clientes.
 
 Foi nesse momento que o **Cryptalytics** entrou em cena. Um squad de analistas de dados especializados em criptomoedas, eles foram escalados para realizar uma análise exploratória da série histórica dos valores das principais criptomoedas do mercado. As criptomoedas selecionadas para análise são Polkadot, Ethereum, Cosmos, EOS, XRP, BinanceCoin, USDCoin, Chainlink, Bitcoin e Aave.
 
 ---
 
-## A Jornada Começa
+## <font color = 		#FFD700 >A Jornada Começa
 O squad **Cryptalytics** se reuniu. Nós tinhamos um desafio pela frente: compreender as tendências, padrões e comportamentos das criptomoedas ao longo do tempo.
 
 Começamos mergulhando nas histórias por trás das moedas. Polkadot, uma plataforma de interoperabilidade; Ethereum, uma pioneira na tecnologia de contratos inteligentes; Cosmos, com sua visão de "internet dos blockchains"; EOS, conhecida por sua escalabilidade; XRP, focada em pagamentos internacionais; BinanceCoin, a moeda nativa da maior exchange do mundo; USDCoin, uma stablecoin; Chainlink, fornecendo dados confiáveis para contratos inteligentes; Bitcoin, o pioneiro; e Aave, revolucionando o mercado de empréstimos.
 
 ---
 
-## Estrutura do Repositório
+## <font color = 		#FFD700 >Estrutura do Repositório
 O repositório está organizado da seguinte maneira:
 
 * Arquivos Crypto: Pasta que contém os arquivos tabelas com os dados de cada moeda.
@@ -62,7 +62,7 @@ O repositório está organizado da seguinte maneira:
 
   ---
 
-## Instruções
+## <font color = 		#FFD700 >Instruções
 
 1. Selecione a pasta desejada.
 2. Execute o arquivo.
