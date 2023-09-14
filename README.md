@@ -1,4 +1,4 @@
-# Este é um {c:red}Projeto Cryptalytics - Análise Exploratória de Criptomoedas.{/c}
+# {c:red}Projeto Cryptalytics - Análise Exploratória de Criptomoedas.{/c}
 ## <font color = 		#FFD700 >Análise exploratória relacionada à série histórica dos valores de criptomoedas
 
 ## `#FFD700`Descrição do Projeto
