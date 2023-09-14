@@ -1,7 +1,7 @@
-# <font color = 		#FFD700 >Projeto Cryptalytics - Análise Exploratória de Criptomoedas
+# `#FFD700`Projeto Cryptalytics - Análise Exploratória de Criptomoedas
 ## <font color = 		#FFD700 >Análise exploratória relacionada à série histórica dos valores de criptomoedas
 
-## <font color = 		#FFD700 >Descrição do Projeto
+## `#FFD700`Descrição do Projeto
 O projeto Cryptalytics é um projeto integrador que engloba todas as ferramentas e conhecimentos adquiridos ao longo do curso. Ele visa realizar uma análise exploratória histórica dos valores de criptomoedas, fornecendo insights valiosos para uma corretora financeira diante da crescente demanda por investimentos em criptomoedas. As criptomoedas são ativos digitais descentralizados baseados em criptografia e operam em redes blockchain, oferecendo transações seguras e transparentes, sem a necessidade de intermediários como bancos. Dada a sua natureza altamente volátil, entender seu comportamento ao longo do tempo é fundamental para orientar os investidores.
 
 ---
