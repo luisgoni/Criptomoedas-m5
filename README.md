@@ -108,19 +108,19 @@ O repositório está organizado da seguinte maneira:
 ---
 # Analistas deste projeto 
 
-- Juliana Gomes (Pessoa Gestora de Gente e Engajamento)<a href="https://www.linkedin.com/in/julianapvh/">
+- **Juliana Gomes** (Pessoa Gestora de Gente e Engajamento)<a href="https://www.linkedin.com/in/julianapvh/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- Aline Braga (Gestora de conhecimento)<a href="https://www.linkedin.com/in/alinebozollan/">
+- **Aline Braga** (Gestora de conhecimento)<a href="https://www.linkedin.com/in/alinebozollan/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- Matheus Cordaro (Colaborador ||)<a href="https://www.linkedin.com/in/mscordaro/">
+- **Matheus Cordaro** (Colaborador ||)<a href="https://www.linkedin.com/in/mscordaro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- Luis Gustavo Amaral ( Co-facilitador)<a href="https://www.linkedin.com/in/luisamaral2506/">
+- **Luis Gustavo Amaral** ( Co-facilitador)<a href="https://www.linkedin.com/in/luisamaral2506/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- Cristhian Monteiro (Colaborador)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
+- **Cristhian Monteiro** (Colaborador)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 
