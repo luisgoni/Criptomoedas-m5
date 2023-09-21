@@ -1,4 +1,9 @@
 #  Projeto Cryptalytics - Análise Exploratória de Criptomoedas
+
+<div align="center"> 
+  <img src="https://www.jdv.com.br/wp-content/uploads/2023/05/criptomoedas.jpg"/>
+</div>
+
 ## Análise exploratória relacionada à série histórica dos valores de criptomoedas
 
 # Descrição do Projeto
@@ -42,25 +47,37 @@ Em resumo, o mercado de criptomoedas é diversificado e dinâmico, com algumas m
 # Estrutura do Repositório
 O repositório está organizado da seguinte maneira:
 
-* Arquivos Crypto: Pasta que contém os arquivos tabelas com os dados de cada moeda.
+* [ArquivosCrypto](https://github.com/mathuscm/Criptomoedas-m5/tree/main/ArquivosCrypto): Pasta que contém os arquivos tabelas com os dados de cada moeda.
 
-* images: Pasta que contém imagens ultilizados ao longo do projeto (capturas de tela das visualizações criadas no Tableau, Power bi, looker)
+* [images](https://github.com/mathuscm/Criptomoedas-m5/tree/main/images): Pasta que contém imagens ultilizados ao longo do projeto (capturas de tela das visualizações criadas no Tableau, Power bi, looker)
 
-* pdf_resumo_criptos: Pasta que contém resumo da hístoria de cada moeda utilizada para análise.
+* [pdf_resumo_criptos](https://github.com/mathuscm/Criptomoedas-m5/tree/main/pdf_resumo_criptos): Pasta que contém resumo da hístoria de cada moeda utilizada para análise.
 
-* Projeto_Cryptomoedas.ipynb : Pasta que contém análise exploratória feita pelo Colab.
+* [Projeto_Cryptomoedas.ipynb](https://github.com/mathuscm/Criptomoedas-m5/blob/main/Projeto_Cryptomoedas.ipynb): Pasta que contém tratamento de dados feita pelo Colab.
+
+* [Relatório_Cryptalytics.ipynb](https://github.com/mathuscm/Criptomoedas-m5/blob/main/Relat%C3%B3rio_Cryptalytics.ipynb)
 
   ---
 
   # Ferramentas Utilizadas
 
-- Ambiente de Desenvolvimento e comunicação : Discord
-- Limpeza de Dados - Realização da limpeza dos dados para prepará-los para análise : Colab.
-- Análise Exploratória: Utilização de técnicas de análise exploratória de dados para extrair insights.
-- Banco de Dados: Importação dos arquivos resultantes para um banco de dados : PgAdmin
+  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ---
+  ![Colab](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![Mardown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+  ---
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+  ![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
+
 - Visualização de Dados: Conexão do banco de dados com ferramentas de visualização de dados como Tableau, Power Bi ou Looker. (cada membro usou a ferramenta de sua preferência) 
 - Seleção de Criptomoedas: Polkadot, Ethereum, Cosmos, EOS, XRP, BinanceCoin, USDCoin, Chainlink, Bitcoin e Aave.
-- Visualização de Resultados: Geração de gráficos para a apresentação dos resultados.
 - Storytelling: Apresentação envolvente para comunicar os resultados de forma eficaz.
   
 
@@ -91,7 +108,7 @@ O repositório está organizado da seguinte maneira:
 
 6- Para criar visualizações: Para criar gráficos ou visualizações dos dados, você normalmente precisa usar uma biblioteca de visualização, como o Matplotlib ou o Seaborn em Python.
 
-7- Entre no arquivo de script SQL: Isso implica abrir um arquivo que contém comandos SQL, que são usados para interagir com um banco de dados (ArquivosCrypto).
+7- Entre no arquivo de script SQL: Isso implica abrir um arquivo que contém comandos SQL, que são usados para interagir com um banco de dados [ArquivosCrypto](https://github.com/mathuscm/Criptomoedas-m5/tree/main/ArquivosCrypto).
 
 8- Criar um banco de dados no pgAdmin: PgAdmin é uma ferramenta de gerenciamento de banco de dados para PostgreSQL. Isso significa que você deve usar o PgAdmin para criar um banco de dados onde seus dados serão armazenados.
 
@@ -105,19 +122,20 @@ O repositório está organizado da seguinte maneira:
 
 13- Assim pode fazer novas visualizações: Agora, com o Power BI conectado ao seu banco de dados, você pode criar gráficos e relatórios interativos com base nos dados armazenados no banco de dados.
 
+14- Para melhor seguir as instruções, a documentação deste projeto você encontra em [Scripts and Documentation](https://github.com/mathuscm/Criptomoedas-m5/tree/main/Scripts%20and%20documentation)
 ---
 # Analistas deste projeto 
 
-- **Juliana Gomes** (Pessoa Gestora de Gente e Engajamento)<a href="https://www.linkedin.com/in/julianapvh/">
+- **Juliana Gomes** (Pessoa Gestora de Gente e Engajamento e P.O)<a href="https://www.linkedin.com/in/julianapvh/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 - **Aline Braga** (Gestora de conhecimento)<a href="https://www.linkedin.com/in/alinebozollan/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- **Matheus Cordaro** (Colaborador ||)<a href="https://www.linkedin.com/in/mscordaro/">
+- **Matheus Cordaro** (Colaborador || e Scrum Master)<a href="https://www.linkedin.com/in/mscordaro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- **Luis Gustavo Amaral** ( Co-facilitador)<a href="https://www.linkedin.com/in/luisamaral2506/">
+- **Luis Gustavo Amaral** (Co-facilitador)<a href="https://www.linkedin.com/in/luisamaral2506/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 - **Cristhian Monteiro** (Colaborador)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
