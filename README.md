@@ -33,6 +33,11 @@ O projeto visa responder às seguintes perguntas:
 9. Qual é a criptomoeda com a maior variação percentual de preço em um único dia durante o período analisado?
 
 ---
+# Conclusão
+
+Esta análise exploratória de dados fornece insights sobre o desempenho histórico das criptomoedas em relação à valorização e à variação de preço em um único dia. Essas informações são úteis para investidores e entusiastas que desejam entender melhor o comportamento desses ativos digitais.
+Em resumo, o mercado de criptomoedas é diversificado e dinâmico, com algumas moedas se destacando em termos de valorização e capitalização de mercado. É crucial entender as tendências e correlações específicas para tomar decisões informadas no mundo das criptomoedas.
+
 
 # Estrutura do Repositório
 O repositório está organizado da seguinte maneira:
