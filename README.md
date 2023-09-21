@@ -55,7 +55,9 @@ O repositório está organizado da seguinte maneira:
 
 * [Projeto_Cryptomoedas.ipynb](https://github.com/mathuscm/Criptomoedas-m5/blob/main/Projeto_Cryptomoedas.ipynb): Pasta que contém tratamento de dados feita pelo Colab.
 
-* [Relatório_Cryptalytics.ipynb](https://github.com/mathuscm/Criptomoedas-m5/blob/main/Relat%C3%B3rio_Cryptalytics.ipynb)
+* [Relatório_Cryptalytics.ipynb](https://github.com/mathuscm/Criptomoedas-m5/blob/main/Relat%C3%B3rio_Cryptalytics.ipynb): Análise exploratória e insights
+
+* [Scripts_and_documentation](https://github.com/mathuscm/Criptomoedas-m5/tree/main/Scripts_and_documentation): Scripts de execução da criação de tabela, código de inserção de dados e documentação da integração das ferramentas
 
   ---
 
