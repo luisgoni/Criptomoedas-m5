@@ -124,7 +124,8 @@ O repositório está organizado da seguinte maneira:
 
 13- Assim pode fazer novas visualizações: Agora, com o Power BI conectado ao seu banco de dados, você pode criar gráficos e relatórios interativos com base nos dados armazenados no banco de dados.
 
-14- Para melhor seguir as instruções, a documentação deste projeto você encontra em [Scripts and Documentation](https://github.com/mathuscm/Criptomoedas-m5/tree/main/Scripts%20and%20documentation)
+14- Para melhor seguir as instruções, a documentação deste projeto você encontra em [Scripts_and_Documentation](https://github.com/mathuscm/Criptomoedas-m5/tree/main/Scripts_and_documentation)
+
 ---
 # Analistas deste projeto 
 
