@@ -80,6 +80,7 @@ O repositório está organizado da seguinte maneira:
 - import matplotlib.pyplot as plt
 
 3- Abrir a pasta usando seu Colab: Se você estiver usando o Google Colab, você precisa abrir a pasta (Relatório_Cryptalytics.ipynb).
+[Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/github/mathuscm/Criptomoedas-m5/blob/main/Relat%C3%B3rio_Cryptalytics.ipynb)).
 
 4- Clicar em "Ambiente de Execução": No Google Colab, isso se refere a selecionar o tipo de ambiente de execução.
 
@@ -100,6 +101,24 @@ O repositório está organizado da seguinte maneira:
 12- Conecte o Power BI ao banco de dados: Você precisa configurar uma conexão entre o Power BI e o banco de dados PostgreSQL que você criou anteriormente.
 
 13- Assim pode fazer novas visualizações: Agora, com o Power BI conectado ao seu banco de dados, você pode criar gráficos e relatórios interativos com base nos dados armazenados no banco de dados.
+
+---
+## Analistas deste projeto 
+
+- Juliana Gomes (Pessoa Gestora de Gente e Engajamento)<a href="https://www.linkedin.com/in/julianapvh/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
+- Aline Braga (Gestora de conhecimento)<a href="https://www.linkedin.com/in/alinebozollan/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
+- Matheus Cordaro (Colaborador ||)<a href="https://www.linkedin.com/in/mscordaro/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
+- Luis Gustavo Amaral ( Co-facilitador)<a https://www.linkedin.com/in/luisamaral2506/)">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+
+- Cristhian Monteiro (Colaborador)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
 
 
