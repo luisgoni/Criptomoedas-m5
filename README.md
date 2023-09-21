@@ -102,7 +102,7 @@ O repositório está organizado da seguinte maneira:
 - import matplotlib.pyplot as plt
 
 3- Abrir a pasta usando seu Colab: Se você estiver usando o Google Colab, você precisa abrir a pasta (Relatório_Cryptalytics.ipynb).
-[Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/github/mathuscm/Criptomoedas-m5/blob/main/Relat%C3%B3rio_Cryptalytics.ipynb)).
+[Google Colab](https://colab.research.google.com/](https://colab.research.google.com/github/mathuscm/Criptomoedas-m5/blob/main/Relat%C3%B3rio_Cryptalytics.ipynb).
 
 4- Clicar em "Ambiente de Execução": No Google Colab, isso se refere a selecionar o tipo de ambiente de execução.
 
