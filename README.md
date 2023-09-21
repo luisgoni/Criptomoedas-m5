@@ -63,8 +63,44 @@ O repositório está organizado da seguinte maneira:
 
 ## Instruções
 
-1. Selecione a pasta desejada.
-2. Execute o arquivo.
+1- Baixar o repositório: Isso significa fazer o download de um conjunto de arquivos, que contém o código e os recursos necessários.
+
+2- Instalar as bibliotecas: Isso envolve adicionar as bibliotecas necessárias ao seu ambiente de desenvolvimento.
+
+* Para instalação :
+- pip install numpy
+- pip install pandas
+- pip install matplotlib
+- pip install seaborn
+
+* Para importação:
+- import pandas as pd
+- import numpy as np
+- import seaborn as sns
+- import matplotlib.pyplot as plt
+
+3- Abrir a pasta usando seu Colab: Se você estiver usando o Google Colab, você precisa abrir a pasta (Relatório_Cryptalytics.ipynb).
+
+4- Clicar em "Ambiente de Execução": No Google Colab, isso se refere a selecionar o tipo de ambiente de execução.
+
+5- Executar tudo: Isso significa executar todos os scripts ou códigos em seu ambiente de desenvolvimento para garantir que todos os processos sejam executados.
+
+6- Para criar visualizações: Para criar gráficos ou visualizações dos dados, você normalmente precisa usar uma biblioteca de visualização, como o Matplotlib ou o Seaborn em Python.
+
+7- Entre no arquivo de script SQL: Isso implica abrir um arquivo que contém comandos SQL, que são usados para interagir com um banco de dados (ArquivosCrypto).
+
+8- Criar um banco de dados no pgAdmin: PgAdmin é uma ferramenta de gerenciamento de banco de dados para PostgreSQL. Isso significa que você deve usar o PgAdmin para criar um banco de dados onde seus dados serão armazenados.
+
+9- Executar o arquivo de criação de tabelas: Esse arquivo SQL contém comandos para criar tabelas no banco de dados, definindo a estrutura dos dados que você deseja armazenar.
+
+10- Executar o arquivo de inserção de dados: Após criar as tabelas, você deve executar um arquivo SQL que insere os dados desejados nessas tabelas.
+
+11- Abra o Power BI: O Power BI é uma ferramenta de visualização de dados da Microsoft.
+
+12- Conecte o Power BI ao banco de dados: Você precisa configurar uma conexão entre o Power BI e o banco de dados PostgreSQL que você criou anteriormente.
+
+13- Assim pode fazer novas visualizações: Agora, com o Power BI conectado ao seu banco de dados, você pode criar gráficos e relatórios interativos com base nos dados armazenados no banco de dados.
+
 
 
 
