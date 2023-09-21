@@ -16,7 +16,7 @@ O projeto visa responder às seguintes perguntas:
 5. Qual moeda se mostra mais interessante em relação à valorização pela análise da série histórica?
 6. Qual moeda se mostra menos interessante em relação à valorização pela análise da série histórica?
 7. Existe correlação entre os valores para todas as criptomoedas?
-8. ...
+8. Qual é a média da capitalização de mercado (market cap) das criptomoedas durante o período analisado? Existe alguma criptomoeda que se destaca significativamente em termos de capitalização de mercado?
 9. Qual é a criptomoeda com a maior variação percentual de preço em um único dia durante o período analisado?
 10. ...
 
